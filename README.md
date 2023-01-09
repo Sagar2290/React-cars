@@ -1,10 +1,10 @@
 # Live app
 
-This project's live app link is provided [Here](https://react-cars.netlify.app/).
+This project's live app link is provided [Here](https://react-car.netlify.app/).
 
 or
 
-[https://react-comps.netlify.app/](https://react-cars.netlify.app/)
+[https://react-car.netlify.app/](https://react-car.netlify.app/)
 
 # Cars
 
